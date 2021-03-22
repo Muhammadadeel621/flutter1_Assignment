@@ -1,0 +1,45 @@
+body{
+    background-color: bisque;
+}
+
+ul{
+    display: inline-flex;
+    float: right;
+    margin-top: auto;
+}
+li{
+    list-style: none;
+    padding: 37px;
+    margin: auto;
+    
+}
+
+.mid{
+    text-align: center;
+    margin-right: 5px;
+}
+
+.midox{
+    margin-left: 230px;
+}
+
+.mido{
+    display: flex;
+    flex-wrap: wrap;
+    margin: 10px;
+    padding: 20px;
+    justify-content: space-around;
+}
+
+mdoxz{
+    margin-right: 50px;
+    padding-bottom: 50px;
+}
+
+.ending{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    background-color: limegreen;
+    font-size: 20px;
+}
